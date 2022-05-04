@@ -1,0 +1,81 @@
+body {background-color: brown;
+
+}
+
+h1 {font-size: 80px;
+text-align: center;
+font-weight: bold;
+color: orange;
+
+}
+h2 {font-size: 50px;
+text-align: center;
+color: orange;
+
+}
+
+h3 {font-size: 40px;
+color: orange;
+text-align: center;
+
+}
+
+p {font-size: 30px;
+text-align: center;
+font-style: italic;
+color: orange;
+
+}
+
+li {font-size: 40px;
+  font-weight: bold;
+text-align: center;
+list-style-position: inside;
+color: yellow
+
+}
+
+.Oyle {width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+  border-color: yellow;
+  border-width: 10px;
+  border-style: double;
+display: block;
+
+}
+
+video {width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border-style: dashed;
+  border-color: yellow;
+
+}
+
+.puppy {
+width: 150px;
+border-radius: 70%;
+float: left;
+margin-left: 200px;
+}
+
+.Snø {display: flex;
+width: 200px;
+border-radius: 70%;
+float: right;
+margin-right: 200px;
+}
+
+.naruto {float: right;
+width: 100px;
+
+}
+
+.ez {font-size: 69px;
+text-align: right;
+margin-bottom: 0.1px;
+margin-top: 0.1px;
+}
